@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "625836385c116fed874696cf"
+  },
+  "nameRegion": "Deep Core",
+  "descriptionRegion": "At the very heart of the galaxy, the Deep Core was a region that spanned seven thousand light years, and contained roughly 30 billion stars. Due to the gravitational pull of the vast number of stars, as well as a massive black hole at the center, local space-time was severely warped, making hyperspace travel difficult at best.It's dangerous to navigate, and few travellers venture this far coreward",
+  "mapRegion": "DeepCore.jpg"
+},{
+  "_id": {
+    "$oid": "625836385c116fed874696d0"
+  },
+  "nameRegion": "Core Worlds",
+  "descriptionRegion": "The Core Worlds was an ancient region bordering the outlying areas of the Deep Core, and included some of the most prestigious, well-developed, well-known, and heavily populated planets in the galaxy. The Galactic Republic and subsequently all galaxywide governments were born in the Core Worlds and spread out over the galaxy. During both the time of the Republic and Empire, Coruscant, a major core world, was the Galactic Capital.",
+  "mapRegion": "Core.jpg"
+},{
+  "_id": {
+    "$oid": "625836385c116fed874696d1"
+  },
+  "nameRegion": "Colonies",
+  "descriptionRegion": "The Colonies, so named because it was among the first areas outside the Core to be colonized, contained many of the galaxy's wealthiest worlds and prided itself on being the galaxy's economic engine. Worlds here were typically heavily populated, industrialized, and cultured, and the region was considered the meeting point of Core wealth and Rim raw materials. The Colonies, forming the tip of the Slice, came to include many of the galaxy's oldest manufacturing worlds, including Balmorra, Commenor and Neimoidia.",
+  "mapRegion": "Colonies.jpg"
+},{
+  "_id": {
+    "$oid": "625836385c116fed874696d2"
+  },
+  "nameRegion": "Inner Rim",
+  "descriptionRegion": "The Inner Rim was a region of the galaxy between the Colonies and the Expansion Region. It was originally just called \"The Rim\", as it was expected to be the farthest extent of the known galaxy for centuries.The region had minimal cultural influence and had few truly notable planets beyond the ecumenopolis of Denon and the medical worlds of Manaan and Thyferra. As the bridge between the Core and the Rim, the Inner Rim held great strategic value, and during both the Clone Wars and the Galactic Civil War, brutal battles were fought over the region",
+  "mapRegion": "InnerRim.jpg"
+},{
+  "_id": {
+    "$oid": "625836385c116fed874696d3"
+  },
+  "nameRegion": "Expansion Region",
+  "descriptionRegion": "The Expansion Region began as an experiment in corporate-controlled worlds, known as the Exploitation Region, with powerful corporations exploiting and profiting heavily from the planets for their raw materials, metals and ores. Inhabitants were oppressed while the corporations stripped entire stellar systems along the Corellian Run of all their resources. Expansion Region worlds continued to be producers of raw materials and ores. However, most natural resources were exhausted by the Imperial Period, with Gyndine, Bacrana and Cyrillia being among the few remaining viable ports ",
+  "mapRegion": "ExpansionRegion.jpg"
+},{
+  "_id": {
+    "$oid": "625836385c116fed874696d4"
+  },
+  "nameRegion": "Mid-Rim",
+  "descriptionRegion": "With fewer natural resources (and therefore a smaller population) than many neighboring regions, the Mid Rim was a territory where residents worked hard for everything they had.  Consequently, the Mid Rim built up a successful economy based on low-cost manufacturing and agriculture.",
+  "mapRegion": "MidRim.jpg"
+},{
+  "_id": {
+    "$oid": "625836385c116fed874696d5"
+  },
+  "nameRegion": "Outer Rim Territories",
+  "descriptionRegion": "The Outer Rim Territories was the largest region of the galaxy, and the last widely settled expanse before Wild Space and the Unknown Regions. It was strewn with obscure worlds, and rugged, primitive frontier planets. Due to its distance from the Core, government control was historically the weakest in the Outer Rim Territories, and it was the traditional refuge for dissidents, pilgrims and freedom-seekers, but it was also beset by lawlessness, oppression and violence.  Worlds closest to the major super-hyperroutes tended to be the most civilized, but far from these trade links, they tended to be dominated by the Hutts.",
+  "mapRegion": "OuterRim.jpg"
+},{
+  "_id": {
+    "$oid": "625836385c116fed874696d6"
+  },
+  "nameRegion": "Wild Space",
+  "descriptionRegion": "Wild Space was the frontier of galactic society, separating the known parts of the galaxy from the Unknown Regions. It was not a formal label, but was applied to the unsettled galactic fringe and other parts of the galaxy with negligible colonization or development.  Wild Space differed from the Unknown Regions in that some of Wild Space had been explored, though not extensively, and the findings recorded in official logs. The worlds of Wild Space largely ignored the central government, and were generally peaceful, but many acted as criminal hideaways",
+  "mapRegion": "swgalaxy.jpg"
+},{
+  "_id": {
+    "$oid": "625836385c116fed874696d7"
+  },
+  "nameRegion": "Unknown Regions",
+  "descriptionRegion": "The term \"Unknown Regions\" referred to those areas that had not been directly surveyed by Republic or Imperial scouts. It was most commonly applied to the less-known parts of the galaxy's western disk, a quadrant stretching roughly between Bakura and the Imperial Remnant.",
+  "mapRegion": "swgalaxy.jpg"
+}]

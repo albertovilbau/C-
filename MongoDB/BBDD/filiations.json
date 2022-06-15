@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "625835495c116fed874696c1"
+  },
+  "description": "Republican"
+},{
+  "_id": {
+    "$oid": "625835495c116fed874696c2"
+  },
+  "description": "First Order"
+},{
+  "_id": {
+    "$oid": "625835495c116fed874696c3"
+  },
+  "description": "Neutral"
+},{
+  "_id": {
+    "$oid": "625835495c116fed874696c4"
+  },
+  "description": "Unknown"
+}]

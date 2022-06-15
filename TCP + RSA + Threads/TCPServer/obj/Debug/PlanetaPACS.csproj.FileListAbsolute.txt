@@ -1,0 +1,36 @@
+G:\Proyecto real\PracticaTCP\TCPServer\bin\Debug\PlanetaPACS.exe.config
+G:\Proyecto real\PracticaTCP\TCPServer\bin\Debug\PlanetaPACS.exe
+G:\Proyecto real\PracticaTCP\TCPServer\bin\Debug\PlanetaPACS.pdb
+G:\Proyecto real\PracticaTCP\TCPServer\obj\Debug\PlanetaPACS.csproj.AssemblyReference.cache
+G:\Proyecto real\PracticaTCP\TCPServer\obj\Debug\PracticaTCP.frmServer.resources
+G:\Proyecto real\PracticaTCP\TCPServer\obj\Debug\PlanetaPACS.Properties.Resources.resources
+G:\Proyecto real\PracticaTCP\TCPServer\obj\Debug\PlanetaPACS.csproj.GenerateResource.cache
+G:\Proyecto real\PracticaTCP\TCPServer\obj\Debug\PlanetaPACS.csproj.CoreCompileInputs.cache
+G:\Proyecto real\PracticaTCP\TCPServer\obj\Debug\PlanetaPACS.exe
+G:\Proyecto real\PracticaTCP\TCPServer\obj\Debug\PlanetaPACS.pdb
+C:\Users\Abel\Desktop\SendFiles\PracticaTCP\TCPServer\bin\Debug\PlanetaPACS.exe.config
+C:\Users\Abel\Desktop\SendFiles\PracticaTCP\TCPServer\bin\Debug\PlanetaPACS.exe
+C:\Users\Abel\Desktop\SendFiles\PracticaTCP\TCPServer\bin\Debug\PlanetaPACS.pdb
+C:\Users\Abel\Desktop\SendFiles\PracticaTCP\TCPServer\obj\Debug\PlanetaPACS.csproj.AssemblyReference.cache
+C:\Users\Abel\Desktop\SendFiles\PracticaTCP\TCPServer\obj\Debug\PracticaTCP.frmServer.resources
+C:\Users\Abel\Desktop\SendFiles\PracticaTCP\TCPServer\obj\Debug\PlanetaPACS.Properties.Resources.resources
+C:\Users\Abel\Desktop\SendFiles\PracticaTCP\TCPServer\obj\Debug\PlanetaPACS.csproj.GenerateResource.cache
+C:\Users\Abel\Desktop\SendFiles\PracticaTCP\TCPServer\obj\Debug\PlanetaPACS.csproj.CoreCompileInputs.cache
+C:\Users\Abel\Desktop\SendFiles\PracticaTCP\TCPServer\obj\Debug\PlanetaPACS.exe
+C:\Users\Abel\Desktop\SendFiles\PracticaTCP\TCPServer\obj\Debug\PlanetaPACS.pdb
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\TCPServer\obj\Debug\PlanetaPACS.csproj.AssemblyReference.cache
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\TCPServer\obj\Debug\PracticaTCP.frmServer.resources
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\TCPServer\obj\Debug\PlanetaPACS.Properties.Resources.resources
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\TCPServer\obj\Debug\PlanetaPACS.csproj.GenerateResource.cache
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\TCPServer\obj\Debug\PlanetaPACS.csproj.CoreCompileInputs.cache
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\TCPServer\obj\Debug\PlanetaPACS.exe
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\TCPServer\obj\Debug\PlanetaPACS.pdb
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\TCPServer\bin\Debug\PlanetaPACS.exe.config
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\TCPServer\bin\Debug\PlanetaPACS.exe
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\TCPServer\bin\Debug\PlanetaPACS.pdb
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\TCPServer\bin\Debug\DBConnect.dll
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\TCPServer\bin\Debug\DBConnect.pdb
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\TCPServer\obj\Debug\PlanetaPACS.csproj.CopyComplete
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\Compilacion\PlanetaPACS.exe.config
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\Compilacion\PlanetaPACS.exe
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\Compilacion\PlanetaPACS.pdb

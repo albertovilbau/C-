@@ -1,0 +1,19 @@
+G:\S2AM\Desenvolupament d'Apps Escritori\Proyecto 2\Sprint #3\PracticaTCP\PracticaTCP\TCPClient\bin\Debug\TCPClient.exe.config
+G:\S2AM\Desenvolupament d'Apps Escritori\Proyecto 2\Sprint #3\PracticaTCP\PracticaTCP\TCPClient\bin\Debug\TCPClient.exe
+G:\S2AM\Desenvolupament d'Apps Escritori\Proyecto 2\Sprint #3\PracticaTCP\PracticaTCP\TCPClient\bin\Debug\TCPClient.pdb
+G:\S2AM\Desenvolupament d'Apps Escritori\Proyecto 2\Sprint #3\PracticaTCP\PracticaTCP\TCPClient\obj\Debug\TCPClient.frmClient.resources
+G:\S2AM\Desenvolupament d'Apps Escritori\Proyecto 2\Sprint #3\PracticaTCP\PracticaTCP\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+G:\S2AM\Desenvolupament d'Apps Escritori\Proyecto 2\Sprint #3\PracticaTCP\PracticaTCP\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+G:\S2AM\Desenvolupament d'Apps Escritori\Proyecto 2\Sprint #3\PracticaTCP\PracticaTCP\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+G:\S2AM\Desenvolupament d'Apps Escritori\Proyecto 2\Sprint #3\PracticaTCP\PracticaTCP\TCPClient\obj\Debug\TCPClient.exe
+G:\S2AM\Desenvolupament d'Apps Escritori\Proyecto 2\Sprint #3\PracticaTCP\PracticaTCP\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\Abel\Desktop\PracticaTCP\PracticaTCP\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\Abel\Desktop\PracticaTCP\PracticaTCP\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\Abel\Desktop\PracticaTCP\PracticaTCP\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\Abel\Desktop\PracticaTCP\PracticaTCP\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+C:\Users\Abel\Desktop\PracticaTCP\PracticaTCP\TCPClient\obj\Debug\TCPClient.frmClient.resources
+C:\Users\Abel\Desktop\PracticaTCP\PracticaTCP\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+C:\Users\Abel\Desktop\PracticaTCP\PracticaTCP\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+C:\Users\Abel\Desktop\PracticaTCP\PracticaTCP\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\Abel\Desktop\PracticaTCP\PracticaTCP\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\Abel\Desktop\PracticaTCP\PracticaTCP\TCPClient\obj\Debug\TCPClient.pdb

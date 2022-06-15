@@ -1,0 +1,9 @@
+G:\Proyecto real\PracticaTCP\TCPServer\bin\Debug\PlanetaPACS.exe.config
+G:\Proyecto real\PracticaTCP\TCPServer\bin\Debug\PlanetaPACS.exe
+G:\Proyecto real\PracticaTCP\TCPServer\bin\Debug\PlanetaPACS.pdb
+G:\Proyecto real\PracticaTCP\TCPServer\obj\Debug\PracticaTCP.frmServer.resources
+G:\Proyecto real\PracticaTCP\TCPServer\obj\Debug\PlanetaPACS.Properties.Resources.resources
+G:\Proyecto real\PracticaTCP\TCPServer\obj\Debug\Planeta.csproj.GenerateResource.cache
+G:\Proyecto real\PracticaTCP\TCPServer\obj\Debug\Planeta.csproj.CoreCompileInputs.cache
+G:\Proyecto real\PracticaTCP\TCPServer\obj\Debug\PlanetaPACS.exe
+G:\Proyecto real\PracticaTCP\TCPServer\obj\Debug\PlanetaPACS.pdb

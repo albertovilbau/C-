@@ -1,0 +1,10 @@
+E:\DAM\X-Wing Simulator\Unit testing\UnitTesting\bin\Debug\UnitTesting.exe.config
+E:\DAM\X-Wing Simulator\Unit testing\UnitTesting\bin\Debug\UnitTesting.exe
+E:\DAM\X-Wing Simulator\Unit testing\UnitTesting\bin\Debug\UnitTesting.pdb
+E:\DAM\X-Wing Simulator\Unit testing\UnitTesting\obj\Debug\UnitTesting.Form1.resources
+E:\DAM\X-Wing Simulator\Unit testing\UnitTesting\obj\Debug\UnitTesting.Properties.Resources.resources
+E:\DAM\X-Wing Simulator\Unit testing\UnitTesting\obj\Debug\UnitTesting.csproj.GenerateResource.cache
+E:\DAM\X-Wing Simulator\Unit testing\UnitTesting\obj\Debug\UnitTesting.csproj.CoreCompileInputs.cache
+E:\DAM\X-Wing Simulator\Unit testing\UnitTesting\obj\Debug\UnitTesting.exe
+E:\DAM\X-Wing Simulator\Unit testing\UnitTesting\obj\Debug\UnitTesting.pdb
+E:\DAM\X-Wing Simulator\Unit testing\UnitTesting\obj\Debug\UnitTesting.csproj.AssemblyReference.cache

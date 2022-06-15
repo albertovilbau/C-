@@ -1,0 +1,20 @@
+C:\Users\josep\source\repos\PCB_Fils\Calculs\bin\Debug\Calculs.dll
+C:\Users\josep\source\repos\PCB_Fils\Calculs\bin\Debug\Calculs.pdb
+C:\Users\josep\source\repos\PCB_Fils\Calculs\obj\Debug\Calculs.csproj.CoreCompileInputs.cache
+C:\Users\josep\source\repos\PCB_Fils\Calculs\obj\Debug\Calculs.dll
+C:\Users\josep\source\repos\PCB_Fils\Calculs\obj\Debug\Calculs.pdb
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\Calculs\bin\Debug\Calculs.dll
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\Calculs\bin\Debug\Calculs.pdb
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\Calculs\obj\Debug\Calculs.csproj.CoreCompileInputs.cache
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\Calculs\obj\Debug\Calculs.dll
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\Calculs\obj\Debug\Calculs.pdb
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\Compilacion\Calculs.dll
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\Compilacion\Calculs.pdb
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\Compilacion\NUnit3.TestAdapter.dll
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\Compilacion\NUnit3.TestAdapter.pdb
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\Compilacion\nunit.engine.dll
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\Compilacion\nunit.engine.api.dll
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\Compilacion\nunit.engine.core.dll
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\Compilacion\testcentric.engine.metadata.dll
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\Calculs\obj\Debug\Calculs.csproj.CopyComplete
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\Calculs\obj\Debug\Calculs.csproj.AssemblyReference.cache

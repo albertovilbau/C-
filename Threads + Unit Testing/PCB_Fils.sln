@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCB_Fils", "PCB_Fils\PCB_Fils.csproj", "{BAD0D579-66D1-4C2E-BCB2-379F37F6C18F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculs", "Calculs\Calculs.csproj", "{62F993CA-6A5C-45F9-80C0-6B0CB1AD4404}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calcul.UniTest", "Calcul.UniTest\Calcul.UniTest.csproj", "{8A5C8900-847E-46DE-B641-9B07B4EEE253}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAD0D579-66D1-4C2E-BCB2-379F37F6C18F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD0D579-66D1-4C2E-BCB2-379F37F6C18F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD0D579-66D1-4C2E-BCB2-379F37F6C18F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD0D579-66D1-4C2E-BCB2-379F37F6C18F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62F993CA-6A5C-45F9-80C0-6B0CB1AD4404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62F993CA-6A5C-45F9-80C0-6B0CB1AD4404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62F993CA-6A5C-45F9-80C0-6B0CB1AD4404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62F993CA-6A5C-45F9-80C0-6B0CB1AD4404}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A5C8900-847E-46DE-B641-9B07B4EEE253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A5C8900-847E-46DE-B641-9B07B4EEE253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A5C8900-847E-46DE-B641-9B07B4EEE253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A5C8900-847E-46DE-B641-9B07B4EEE253}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD2C146D-DB0F-4C17-9971-CB3CA4911B1C}
+	EndGlobalSection
+EndGlobal

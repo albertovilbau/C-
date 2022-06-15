@@ -1,0 +1,82 @@
+E:\DAM\X-Wing Simulator\On Board Computer\obj\Debug\On_Board_Computer.Properties.Resources.resources
+E:\DAM\X-Wing Simulator\On Board Computer\obj\Debug\On Board Computer.csproj.GenerateResource.cache
+E:\DAM\X-Wing Simulator\On Board Computer\obj\Debug\On Board Computer.csproj.CoreCompileInputs.cache
+E:\DAM\X-Wing Simulator\On Board Computer\obj\Debug\On_Board_Computer.Form1.resources
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\libzstd.dll
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\snappy32.dll
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\snappy64.dll
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\libsnappy64.so
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\libzstd.so
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\libsnappy64.dylib
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\libzstd.dylib
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\mongocrypt.dll
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\On Board Computer.exe.config
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\On Board Computer.exe
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\On Board Computer.pdb
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\DnsClient.dll
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\Microsoft.Win32.Registry.dll
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\MongoDB.Bson.dll
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\MongoDB.Driver.Core.dll
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\MongoDB.Driver.dll
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\MongoDB.Libmongocrypt.dll
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\SharpCompress.dll
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\System.Buffers.dll
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\System.Memory.dll
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\System.Numerics.Vectors.dll
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\System.Security.AccessControl.dll
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\System.Security.Principal.Windows.dll
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\DnsClient.xml
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\Microsoft.Win32.Registry.xml
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\MongoDB.Bson.xml
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\MongoDB.Driver.xml
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\MongoDB.Driver.Core.xml
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\System.Buffers.xml
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\System.Memory.xml
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\System.Numerics.Vectors.xml
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\System.Security.AccessControl.xml
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\System.Security.Principal.Windows.xml
+E:\DAM\X-Wing Simulator\On Board Computer\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\DAM\X-Wing Simulator\On Board Computer\obj\Debug\On Board Computer.csproj.CopyComplete
+E:\DAM\X-Wing Simulator\On Board Computer\obj\Debug\On Board Computer.exe
+E:\DAM\X-Wing Simulator\On Board Computer\obj\Debug\On Board Computer.pdb
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\libzstd.dll
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\snappy32.dll
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\snappy64.dll
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\libsnappy64.so
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\libzstd.so
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\libsnappy64.dylib
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\libzstd.dylib
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\mongocrypt.dll
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\On Board Computer.exe.config
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\On Board Computer.exe
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\On Board Computer.pdb
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\DnsClient.dll
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\Microsoft.Win32.Registry.dll
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\MongoDB.Bson.dll
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\MongoDB.Driver.Core.dll
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\MongoDB.Driver.dll
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\MongoDB.Libmongocrypt.dll
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\SharpCompress.dll
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\System.Buffers.dll
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\System.Memory.dll
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\System.Numerics.Vectors.dll
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\System.Runtime.CompilerServices.Unsafe.dll
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\System.Security.AccessControl.dll
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\System.Security.Principal.Windows.dll
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\System.Text.Encoding.CodePages.dll
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\DnsClient.xml
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\Microsoft.Win32.Registry.xml
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\MongoDB.Bson.xml
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\MongoDB.Driver.xml
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\MongoDB.Driver.Core.xml
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\System.Buffers.xml
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\System.Memory.xml
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\System.Numerics.Vectors.xml
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\System.Runtime.CompilerServices.Unsafe.xml
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\System.Security.AccessControl.xml
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\System.Security.Principal.Windows.xml
+E:\DAM\X-Wing Simulator\On Board Computer\Compilacion\System.Text.Encoding.CodePages.xml
+E:\DAM\X-Wing Simulator\On Board Computer\obj\Debug\On Board Computer.csproj.AssemblyReference.cache

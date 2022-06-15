@@ -1,0 +1,9 @@
+G:\S2AM\Desenvolupament d'Apps Escritori\Proyecto 2\Sprint #3\PracticaTCP\PracticaTCP\TCPClient\bin\Release\TCPClient.exe.config
+G:\S2AM\Desenvolupament d'Apps Escritori\Proyecto 2\Sprint #3\PracticaTCP\PracticaTCP\TCPClient\bin\Release\TCPClient.exe
+G:\S2AM\Desenvolupament d'Apps Escritori\Proyecto 2\Sprint #3\PracticaTCP\PracticaTCP\TCPClient\bin\Release\TCPClient.pdb
+G:\S2AM\Desenvolupament d'Apps Escritori\Proyecto 2\Sprint #3\PracticaTCP\PracticaTCP\TCPClient\obj\Release\TCPClient.frmClient.resources
+G:\S2AM\Desenvolupament d'Apps Escritori\Proyecto 2\Sprint #3\PracticaTCP\PracticaTCP\TCPClient\obj\Release\TCPClient.Properties.Resources.resources
+G:\S2AM\Desenvolupament d'Apps Escritori\Proyecto 2\Sprint #3\PracticaTCP\PracticaTCP\TCPClient\obj\Release\TCPClient.csproj.GenerateResource.cache
+G:\S2AM\Desenvolupament d'Apps Escritori\Proyecto 2\Sprint #3\PracticaTCP\PracticaTCP\TCPClient\obj\Release\TCPClient.csproj.CoreCompileInputs.cache
+G:\S2AM\Desenvolupament d'Apps Escritori\Proyecto 2\Sprint #3\PracticaTCP\PracticaTCP\TCPClient\obj\Release\TCPClient.exe
+G:\S2AM\Desenvolupament d'Apps Escritori\Proyecto 2\Sprint #3\PracticaTCP\PracticaTCP\TCPClient\obj\Release\TCPClient.pdb

@@ -1,0 +1,129 @@
+[{
+  "_id": {
+    "$oid": "6258385f5c116fed874696da"
+  },
+  "type": "Major hyperspace route",
+  "nameRoute": "Corellian Run",
+  "start": "Coruscant",
+  "end": "Ryloth"
+},{
+  "_id": {
+    "$oid": "6258385f5c116fed874696db"
+  },
+  "type": "Major hyperspace route",
+  "nameRoute": "Perlemian Trade Route",
+  "start": "Coruscant",
+  "end": " Quermia"
+},{
+  "_id": {
+    "$oid": "6258385f5c116fed874696dc"
+  },
+  "type": "Major hyperspace route",
+  "nameRoute": "Corellian Trade Spine",
+  "start": "Corellia",
+  "end": "Terminus"
+},{
+  "_id": {
+    "$oid": "6258385f5c116fed874696dd"
+  },
+  "type": "Major hyperspace route",
+  "nameRoute": "Hydian Way",
+  "start": "Bonadan",
+  "end": "Imynusoph"
+},{
+  "_id": {
+    "$oid": "6258385f5c116fed874696de"
+  },
+  "type": "Major hyperspace route",
+  "nameRoute": "Rimma Trade Route",
+  "start": "Abregado-rae",
+  "end": "Karideph"
+},{
+  "_id": {
+    "$oid": "6258385f5c116fed874696df"
+  },
+  "type": "Minor hyperspace route",
+  "nameRoute": "Ison Trade Corridor",
+  "start": "Indellian",
+  "end": "Mataou"
+},{
+  "_id": {
+    "$oid": "6258385f5c116fed874696e0"
+  },
+  "type": "Minor hyperspace route",
+  "nameRoute": "Randon Run",
+  "start": "Lantillies[",
+  "end": "Randon"
+},{
+  "_id": {
+    "$oid": "6258385f5c116fed874696e1"
+  },
+  "type": "Minor hyperspace route",
+  "nameRoute": "Myto's Arrow",
+  "start": "Dantooine",
+  "end": "Jaemus"
+},{
+  "_id": {
+    "$oid": "6258385f5c116fed874696e2"
+  },
+  "type": "Minor hyperspace route",
+  "nameRoute": "Triellus Trade Route",
+  "start": "Centares",
+  "end": "Enarc"
+},{
+  "_id": {
+    "$oid": "6258385f5c116fed874696e3"
+  },
+  "type": "Minor hyperspace route",
+  "nameRoute": "Kessel Run",
+  "start": "Formos",
+  "end": "Kessel"
+},{
+  "_id": {
+    "$oid": "6258385f5c116fed874696e4"
+  },
+  "type": "Minor hyperspace route",
+  "nameRoute": "Nanth'ri Route",
+  "start": "Exodeen",
+  "end": "Nanth'ri"
+},{
+  "_id": {
+    "$oid": "6258385f5c116fed874696e5"
+  },
+  "type": "Minor hyperspace route",
+  "nameRoute": "Byss Run",
+  "start": "Empress Teta",
+  "end": "Byss"
+},{
+  "_id": {
+    "$oid": "6258385f5c116fed874696e6"
+  },
+  "type": "Minor hyperspace route",
+  "nameRoute": "Endor Run",
+  "start": "Endor",
+  "end": "Kinyen"
+},{
+  "_id": {
+    "$oid": "6258385f5c116fed874696e7"
+  },
+  "type": "Minor hyperspace route",
+  "nameRoute": "Shiritoku Way",
+  "start": "Endor",
+  "end": "Rakata"
+},{
+  "_id": {
+    "$oid": "6258385f5c116fed874696e8"
+  },
+  "type": "Minor hyperspace route",
+  "nameRoute": "Enarc Run",
+  "start": "Endor",
+  "end": "Rakata"
+},{
+  "_id": {
+    "$oid": "6258385f5c116fed874696e9"
+  },
+  "type": "Minor hyperspace route",
+  "nameRoute": "Manda Merchant Route",
+  "start": "Molavar",
+  "end": "Randon"
+}]

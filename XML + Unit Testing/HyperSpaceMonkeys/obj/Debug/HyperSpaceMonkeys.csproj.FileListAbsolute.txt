@@ -1,0 +1,23 @@
+C:\Users\kurau\source\repos\HyperSpaceMonkeys\HyperSpaceMonkeys\bin\Debug\HyperSpaceMonkeys.exe.config
+C:\Users\kurau\source\repos\HyperSpaceMonkeys\HyperSpaceMonkeys\bin\Debug\HyperSpaceMonkeys.exe
+C:\Users\kurau\source\repos\HyperSpaceMonkeys\HyperSpaceMonkeys\bin\Debug\HyperSpaceMonkeys.pdb
+C:\Users\kurau\source\repos\HyperSpaceMonkeys\HyperSpaceMonkeys\obj\Debug\HyperSpaceMonkeys.Form1.resources
+C:\Users\kurau\source\repos\HyperSpaceMonkeys\HyperSpaceMonkeys\obj\Debug\HyperSpaceMonkeys.Properties.Resources.resources
+C:\Users\kurau\source\repos\HyperSpaceMonkeys\HyperSpaceMonkeys\obj\Debug\HyperSpaceMonkeys.csproj.GenerateResource.cache
+C:\Users\kurau\source\repos\HyperSpaceMonkeys\HyperSpaceMonkeys\obj\Debug\HyperSpaceMonkeys.csproj.CoreCompileInputs.cache
+C:\Users\kurau\source\repos\HyperSpaceMonkeys\HyperSpaceMonkeys\obj\Debug\HyperSpaceMonkeys.exe
+C:\Users\kurau\source\repos\HyperSpaceMonkeys\HyperSpaceMonkeys\obj\Debug\HyperSpaceMonkeys.pdb
+C:\Users\kurau\source\repos\HyperSpaceMonkeys\HyperSpaceMonkeys\obj\Debug\HyperSpaceMonkeys.csproj.AssemblyReference.cache
+E:\DAM\X-Wing Simulator\HyperSpaceMonkeys\HyperSpaceMonkeys\bin\Debug\HyperSpaceMonkeys.exe.config
+E:\DAM\X-Wing Simulator\HyperSpaceMonkeys\HyperSpaceMonkeys\bin\Debug\HyperSpaceMonkeys.exe
+E:\DAM\X-Wing Simulator\HyperSpaceMonkeys\HyperSpaceMonkeys\bin\Debug\HyperSpaceMonkeys.pdb
+E:\DAM\X-Wing Simulator\HyperSpaceMonkeys\HyperSpaceMonkeys\obj\Debug\HyperSpaceMonkeys.Form1.resources
+E:\DAM\X-Wing Simulator\HyperSpaceMonkeys\HyperSpaceMonkeys\obj\Debug\HyperSpaceMonkeys.Properties.Resources.resources
+E:\DAM\X-Wing Simulator\HyperSpaceMonkeys\HyperSpaceMonkeys\obj\Debug\HyperSpaceMonkeys.csproj.GenerateResource.cache
+E:\DAM\X-Wing Simulator\HyperSpaceMonkeys\HyperSpaceMonkeys\obj\Debug\HyperSpaceMonkeys.csproj.CoreCompileInputs.cache
+E:\DAM\X-Wing Simulator\HyperSpaceMonkeys\HyperSpaceMonkeys\obj\Debug\HyperSpaceMonkeys.exe
+E:\DAM\X-Wing Simulator\HyperSpaceMonkeys\HyperSpaceMonkeys\obj\Debug\HyperSpaceMonkeys.pdb
+E:\DAM\X-Wing Simulator\HyperSpaceMonkeys\HyperSpaceMonkeys\obj\Debug\HyperSpaceMonkeys.csproj.AssemblyReference.cache
+E:\DAM\X-Wing Simulator\HyperSpaceMonkeys\HyperSpaceMonkeys\bin\Debug\Calculos.dll
+E:\DAM\X-Wing Simulator\HyperSpaceMonkeys\HyperSpaceMonkeys\bin\Debug\Calculos.pdb
+E:\DAM\X-Wing Simulator\HyperSpaceMonkeys\HyperSpaceMonkeys\obj\Debug\HyperSpaceMonkeys.csproj.CopyComplete

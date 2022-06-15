@@ -1,0 +1,5 @@
+E:\DAM\X-Wing Simulator\HyperSpaceMonkeys\Calculos\bin\Debug\Calculos.dll
+E:\DAM\X-Wing Simulator\HyperSpaceMonkeys\Calculos\bin\Debug\Calculos.pdb
+E:\DAM\X-Wing Simulator\HyperSpaceMonkeys\Calculos\obj\Debug\Calculos.csproj.CoreCompileInputs.cache
+E:\DAM\X-Wing Simulator\HyperSpaceMonkeys\Calculos\obj\Debug\Calculos.dll
+E:\DAM\X-Wing Simulator\HyperSpaceMonkeys\Calculos\obj\Debug\Calculos.pdb

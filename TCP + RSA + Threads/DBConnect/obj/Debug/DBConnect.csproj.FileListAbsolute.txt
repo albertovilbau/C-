@@ -1,0 +1,8 @@
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\DBConnect\bin\Debug\DBConnect.dll
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\DBConnect\bin\Debug\DBConnect.pdb
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\DBConnect\obj\Debug\DBConnect.csproj.CoreCompileInputs.cache
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\DBConnect\obj\Debug\DBConnect.dll
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\DBConnect\obj\Debug\DBConnect.pdb
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\Compilacion\DBConnect.dll
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\Compilacion\DBConnect.pdb
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\DBConnect\obj\Debug\DBConnect.csproj.AssemblyReference.cache

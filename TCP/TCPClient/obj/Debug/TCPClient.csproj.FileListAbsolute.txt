@@ -1,0 +1,12 @@
+E:\DAM\PACS\Sprint#3 TCP\TCPClient\bin\Debug\TCPClient.exe.config
+E:\DAM\PACS\Sprint#3 TCP\TCPClient\bin\Debug\TCPClient.exe
+E:\DAM\PACS\Sprint#3 TCP\TCPClient\bin\Debug\TCPClient.pdb
+E:\DAM\PACS\Sprint#3 TCP\TCPClient\obj\Debug\TCPClient.frmClient.resources
+E:\DAM\PACS\Sprint#3 TCP\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+E:\DAM\PACS\Sprint#3 TCP\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+E:\DAM\PACS\Sprint#3 TCP\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+E:\DAM\PACS\Sprint#3 TCP\TCPClient\obj\Debug\TCPClient.exe
+E:\DAM\PACS\Sprint#3 TCP\TCPClient\obj\Debug\TCPClient.pdb
+E:\DAM\PACS\Sprint#3 TCP\Compilación\TCPClient.exe.config
+E:\DAM\PACS\Sprint#3 TCP\Compilación\TCPClient.exe
+E:\DAM\PACS\Sprint#3 TCP\Compilación\TCPClient.pdb

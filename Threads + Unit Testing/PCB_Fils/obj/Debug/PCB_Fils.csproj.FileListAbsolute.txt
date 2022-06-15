@@ -1,0 +1,35 @@
+C:\Users\josep\source\repos\PCB_Fils\PCB_Fils\bin\Debug\PCB_Fils.exe.config
+C:\Users\josep\source\repos\PCB_Fils\PCB_Fils\bin\Debug\PCB_Fils.exe
+C:\Users\josep\source\repos\PCB_Fils\PCB_Fils\bin\Debug\PCB_Fils.pdb
+C:\Users\josep\source\repos\PCB_Fils\PCB_Fils\obj\Debug\PCB_Fils.csprojAssemblyReference.cache
+C:\Users\josep\source\repos\PCB_Fils\PCB_Fils\obj\Debug\PCB_Fils.Properties.Resources.resources
+C:\Users\josep\source\repos\PCB_Fils\PCB_Fils\obj\Debug\PCB_Fils.csproj.GenerateResource.cache
+C:\Users\josep\source\repos\PCB_Fils\PCB_Fils\obj\Debug\PCB_Fils.csproj.CoreCompileInputs.cache
+C:\Users\josep\source\repos\PCB_Fils\PCB_Fils\obj\Debug\PCB_Fils.exe
+C:\Users\josep\source\repos\PCB_Fils\PCB_Fils\obj\Debug\PCB_Fils.pdb
+C:\Users\josep\source\repos\PCB_Fils\PCB_Fils\obj\Debug\PCB_Fils.frmFils.resources
+C:\Users\josep\source\repos\PCB_Fils\PCB_Fils\bin\Debug\Calculs.dll
+C:\Users\josep\source\repos\PCB_Fils\PCB_Fils\bin\Debug\Calculs.pdb
+C:\Users\josep\source\repos\PCB_Fils\PCB_Fils\obj\Debug\PCB_Fils.csproj.CopyComplete
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\PCB_Fils\bin\Debug\PCB_Fils.exe.config
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\PCB_Fils\bin\Debug\PCB_Fils.exe
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\PCB_Fils\bin\Debug\PCB_Fils.pdb
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\PCB_Fils\bin\Debug\Calculs.dll
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\PCB_Fils\bin\Debug\Calculs.pdb
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\PCB_Fils\obj\Debug\PCB_Fils.csproj.AssemblyReference.cache
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\PCB_Fils\obj\Debug\PCB_Fils.frmFils.resources
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\PCB_Fils\obj\Debug\PCB_Fils.Properties.Resources.resources
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\PCB_Fils\obj\Debug\PCB_Fils.csproj.GenerateResource.cache
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\PCB_Fils\obj\Debug\PCB_Fils.csproj.CoreCompileInputs.cache
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\PCB_Fils\obj\Debug\PCB_Fils.csproj.CopyComplete
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\PCB_Fils\obj\Debug\PCB_Fils.exe
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\PCB_Fils\obj\Debug\PCB_Fils.pdb
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\Compilacion\PCB_Fils.exe.config
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\Compilacion\PCB_Fils.exe
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\Compilacion\PCB_Fils.pdb
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\Compilacion\NUnit3.TestAdapter.dll
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\Compilacion\NUnit3.TestAdapter.pdb
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\Compilacion\nunit.engine.dll
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\Compilacion\nunit.engine.api.dll
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\Compilacion\nunit.engine.core.dll
+E:\DAM\PACS\Sprint#7 Examen\PCB_Fils\Compilacion\testcentric.engine.metadata.dll

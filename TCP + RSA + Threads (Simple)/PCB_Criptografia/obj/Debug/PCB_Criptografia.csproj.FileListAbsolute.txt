@@ -1,0 +1,11 @@
+E:\DAM\PACS\Sprint#6 Examen\Enunciat\PCB_Criptografia\Compilacion\PCB_Criptografia.exe.config
+E:\DAM\PACS\Sprint#6 Examen\Enunciat\PCB_Criptografia\Compilacion\PCB_Criptografia.exe
+E:\DAM\PACS\Sprint#6 Examen\Enunciat\PCB_Criptografia\Compilacion\PCB_Criptografia.pdb
+E:\DAM\PACS\Sprint#6 Examen\Enunciat\PCB_Criptografia\obj\Debug\PCB_Criptografia.frmCriptografia.resources
+E:\DAM\PACS\Sprint#6 Examen\Enunciat\PCB_Criptografia\obj\Debug\PCB_Criptografia.frmCriptoServer.resources
+E:\DAM\PACS\Sprint#6 Examen\Enunciat\PCB_Criptografia\obj\Debug\PCB_Criptografia.Properties.Resources.resources
+E:\DAM\PACS\Sprint#6 Examen\Enunciat\PCB_Criptografia\obj\Debug\PCB_Criptografia.csproj.GenerateResource.cache
+E:\DAM\PACS\Sprint#6 Examen\Enunciat\PCB_Criptografia\obj\Debug\PCB_Criptografia.csproj.CoreCompileInputs.cache
+E:\DAM\PACS\Sprint#6 Examen\Enunciat\PCB_Criptografia\obj\Debug\PCB_Criptografia.exe
+E:\DAM\PACS\Sprint#6 Examen\Enunciat\PCB_Criptografia\obj\Debug\PCB_Criptografia.pdb
+E:\DAM\PACS\Sprint#6 Examen\Enunciat\PCB_Criptografia\obj\Debug\PCB_Criptografia.csproj.AssemblyReference.cache

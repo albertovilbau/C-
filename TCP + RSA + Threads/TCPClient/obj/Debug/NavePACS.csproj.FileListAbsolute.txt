@@ -1,0 +1,36 @@
+G:\Proyecto real\PracticaTCP\TCPClient\bin\Debug\NavePACS.exe.config
+G:\Proyecto real\PracticaTCP\TCPClient\bin\Debug\NavePACS.exe
+G:\Proyecto real\PracticaTCP\TCPClient\bin\Debug\NavePACS.pdb
+G:\Proyecto real\PracticaTCP\TCPClient\obj\Debug\TCPClient.frmClient.resources
+G:\Proyecto real\PracticaTCP\TCPClient\obj\Debug\NavePACS.Properties.Resources.resources
+G:\Proyecto real\PracticaTCP\TCPClient\obj\Debug\NavePACS.csproj.GenerateResource.cache
+G:\Proyecto real\PracticaTCP\TCPClient\obj\Debug\NavePACS.csproj.CoreCompileInputs.cache
+G:\Proyecto real\PracticaTCP\TCPClient\obj\Debug\NavePACS.exe
+G:\Proyecto real\PracticaTCP\TCPClient\obj\Debug\NavePACS.pdb
+G:\Proyecto real\PracticaTCP\TCPClient\obj\Debug\NavePACS.csproj.AssemblyReference.cache
+C:\Users\Abel\Desktop\SendFiles\PracticaTCP\TCPClient\bin\Debug\NavePACS.exe.config
+C:\Users\Abel\Desktop\SendFiles\PracticaTCP\TCPClient\bin\Debug\NavePACS.exe
+C:\Users\Abel\Desktop\SendFiles\PracticaTCP\TCPClient\bin\Debug\NavePACS.pdb
+C:\Users\Abel\Desktop\SendFiles\PracticaTCP\TCPClient\obj\Debug\NavePACS.csproj.AssemblyReference.cache
+C:\Users\Abel\Desktop\SendFiles\PracticaTCP\TCPClient\obj\Debug\TCPClient.frmClient.resources
+C:\Users\Abel\Desktop\SendFiles\PracticaTCP\TCPClient\obj\Debug\NavePACS.Properties.Resources.resources
+C:\Users\Abel\Desktop\SendFiles\PracticaTCP\TCPClient\obj\Debug\NavePACS.csproj.GenerateResource.cache
+C:\Users\Abel\Desktop\SendFiles\PracticaTCP\TCPClient\obj\Debug\NavePACS.csproj.CoreCompileInputs.cache
+C:\Users\Abel\Desktop\SendFiles\PracticaTCP\TCPClient\obj\Debug\NavePACS.exe
+C:\Users\Abel\Desktop\SendFiles\PracticaTCP\TCPClient\obj\Debug\NavePACS.pdb
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\TCPClient\bin\Debug\NavePACS.exe.config
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\TCPClient\bin\Debug\NavePACS.exe
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\TCPClient\bin\Debug\NavePACS.pdb
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\TCPClient\bin\Debug\DBConnect.dll
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\TCPClient\bin\Debug\DBConnect.pdb
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\TCPClient\obj\Debug\NavePACS.csproj.AssemblyReference.cache
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\TCPClient\obj\Debug\TCPClient.frmClient.resources
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\TCPClient\obj\Debug\NavePACS.Properties.Resources.resources
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\TCPClient\obj\Debug\NavePACS.csproj.GenerateResource.cache
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\TCPClient\obj\Debug\NavePACS.csproj.CoreCompileInputs.cache
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\TCPClient\obj\Debug\NavePACS.csproj.CopyComplete
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\TCPClient\obj\Debug\NavePACS.exe
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\TCPClient\obj\Debug\NavePACS.pdb
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\Compilacion\NavePACS.exe.config
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\Compilacion\NavePACS.exe
+E:\DAM\PACS\Sprint#5 Proyecto\PACS\Compilacion\NavePACS.pdb

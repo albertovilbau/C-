@@ -1,0 +1,462 @@
+[{
+  "_id": {
+    "$oid": "62583c245c116fed874696f4"
+  },
+  "name": "Takodana",
+  "sector": "Tashtor-Mid Rim",
+  "filiation": "Neutral",
+  "situation": {
+    "long": "J1567Y",
+    "lat": "A786BC",
+    "parsecs": "16784YY"
+  },
+  "hyperspaceRoute": {
+    "route": [
+      "Corellian Run",
+      "Ison Trade Corridor"
+    ]
+  },
+  "natives": "Bravaisian"
+},{
+  "_id": {
+    "$oid": "62583c245c116fed874696f5"
+  },
+  "name": "Naboo",
+  "sector": "Chommell-Mid Rim",
+  "filiation": "Republican",
+  "situation": {
+    "long": "O2189GHF",
+    "lat": "YT456P",
+    "parsecs": "983461YM"
+  },
+  "hyperspaceRoute": {
+    "route": [
+      "Hydian Way",
+      "Corellian Trade Spine"
+    ]
+  },
+  "natives": "Gungan"
+},{
+  "_id": {
+    "$oid": "62583c245c116fed874696f6"
+  },
+  "name": "Dathomir",
+  "sector": "Quelli-Outer Rim Territories",
+  "filiation": "First Order",
+  "situation": {
+    "long": "O6723VB",
+    "lat": "P9823AL",
+    "parsecs": "56423MY"
+  },
+  "hyperspaceRoute": {
+    "route": [
+      "Hydian Way",
+      "Rimma Trade Route"
+    ]
+  },
+  "natives": "Dathomirians"
+},{
+  "_id": {
+    "$oid": "62583c245c116fed874696f7"
+  },
+  "name": "Kashyyyk",
+  "sector": "Mytaranor-Mid Rim",
+  "filiation": "Republican",
+  "situation": {
+    "long": "P12785KL",
+    "lat": "G71252NX",
+    "parsecs": "75612MY"
+  },
+  "hyperspaceRoute": {
+    "route": [
+      "Randon Run",
+      "Perlemian Trade Route"
+    ]
+  },
+  "natives": "Wookiee"
+},{
+  "_id": {
+    "$oid": "62583c245c116fed874696f8"
+  },
+  "name": "Manaan",
+  "sector": "Pyrshak-Inner Rim",
+  "filiation": "First Order",
+  "situation": {
+    "long": "B56123JHS",
+    "lat": "L93891XFT",
+    "parsecs": "91864YY"
+  },
+  "hyperspaceRoute": {
+    "route": [
+      "Rimma Trade Route"
+    ]
+  },
+  "natives": "Selkath"
+},{
+  "_id": {
+    "$oid": "62583c245c116fed874696f9"
+  },
+  "name": "Dantooine",
+  "sector": "Raioballo-Outer Rim Territories[",
+  "filiation": "Republican",
+  "situation": {
+    "long": "G63528KDN",
+    "lat": "P93752CDQ",
+    "parsecs": "99855NFV"
+  },
+  "hyperspaceRoute": {
+    "route": [
+      "Myto's Arrow",
+      "Ison Trade Corridor"
+    ]
+  },
+  "natives": "Humans"
+},{
+  "_id": {
+    "$oid": "62583c245c116fed874696fa"
+  },
+  "name": "Tatooine",
+  "sector": "Arkanis-Outer Rim Territories",
+  "filiation": "Republican",
+  "situation": {
+    "long": "F18277HGP",
+    "lat": "L89811ALM",
+    "parsecs": "84745YY"
+  },
+  "hyperspaceRoute": {
+    "route": [
+      "Triellus Trade Route",
+      "Corellian Run"
+    ]
+  },
+  "natives": "Humans"
+},{
+  "_id": {
+    "$oid": "62583c245c116fed874696fb"
+  },
+  "name": "Mustafar",
+  "sector": "Atravis-Outer Rim Territories",
+  "filiation": "First Order",
+  "situation": {
+    "long": "M09831HHB",
+    "lat": "T87320DGJ",
+    "parsecs": "88737YY"
+  },
+  "hyperspaceRoute": {
+    "route": [
+      "Rimma Trade Route"
+    ]
+  },
+  "natives": "Mustafarian"
+},{
+  "_id": {
+    "$oid": "62583c245c116fed874696fc"
+  },
+  "name": "Endor",
+  "sector": "Moddell-Outer Rim Territories",
+  "filiation": "Republican",
+  "situation": {
+    "long": "J09991BNX",
+    "lat": "K54521FDK",
+    "parsecs": "17382AV"
+  },
+  "hyperspaceRoute": {
+    "route": [
+      "Corellian Trade Spine"
+    ]
+  },
+  "natives": "Ewoks"
+},{
+  "_id": {
+    "$oid": "62583c245c116fed874696fd"
+  },
+  "name": "Coruscant",
+  "sector": "Corusca-Core Worlds",
+  "filiation": "First Order",
+  "situation": {
+    "long": "K67215FBZ",
+    "lat": "88657NMA",
+    "parsecs": "94746MM"
+  },
+  "hyperspaceRoute": {
+    "route": [
+      "Corellian Run",
+      "Perlemian Trade Route"
+    ]
+  },
+  "natives": "Humans"
+},{
+  "_id": {
+    "$oid": "62583c245c116fed874696fe"
+  },
+  "name": "Dagobah",
+  "sector": "Sluis-Outer Rim Territories",
+  "filiation": "Unknown",
+  "situation": {
+    "long": "Z99883ZVP",
+    "lat": "Y12124VBY",
+    "parsecs": "17623YY"
+  },
+  "hyperspaceRoute": {
+    "route": [
+      "Rimma Trade Route"
+    ]
+  },
+  "natives": "Unknown"
+},{
+  "_id": {
+    "$oid": "62583c245c116fed874696ff"
+  },
+  "name": "Jakku",
+  "sector": "Jakku-Inner Rim",
+  "filiation": "First Order",
+  "situation": {
+    "long": "Q87949HHJ",
+    "lat": "S64891GKJ",
+    "parsecs": "85857BNW"
+  },
+  "hyperspaceRoute": {
+    "route": [
+      "Randon Run"
+    ]
+  },
+  "natives": "Teedo"
+},{
+  "_id": {
+    "$oid": "62583c245c116fed87469700"
+  },
+  "name": "Mandalore",
+  "sector": "Mandalore-Outer Rim Territories",
+  "filiation": "First order",
+  "situation": {
+    "long": "H51282VBV",
+    "lat": "R74836FDQ",
+    "parsecs": "78432YY"
+  },
+  "hyperspaceRoute": {
+    "route": [
+      "Hydian Way"
+    ]
+  },
+  "natives": "Humans"
+},{
+  "_id": {
+    "$oid": "62583c245c116fed87469701"
+  },
+  "name": "Kuat",
+  "sector": "Kuat-Core Worlds",
+  "filiation": "Republican",
+  "situation": {
+    "long": "G76319CCL",
+    "lat": "T53477PWD",
+    "parsecs": "64534YM"
+  },
+  "hyperspaceRoute": {
+    "route": [
+      "Hydian Way\""
+    ]
+  },
+  "natives": "Kuati"
+},{
+  "_id": {
+    "$oid": "62583c245c116fed87469702"
+  },
+  "name": "Corellia",
+  "sector": "Corellia-Core Worlds",
+  "filiation": "First Order",
+  "situation": {
+    "long": "M89486HJJ",
+    "lat": "K54536DFC",
+    "parsecs": "43526MM"
+  },
+  "hyperspaceRoute": {
+    "route": [
+      "Corellian Run",
+      "Corellian Trade Spine"
+    ]
+  },
+  "natives": "Humans"
+},{
+  "_id": {
+    "$oid": "62583c245c116fed87469703"
+  },
+  "name": "Hoth",
+  "sector": "Anoat-Outer Rim Territories",
+  "filiation": "Republican",
+  "situation": {
+    "long": "R32761HPQ",
+    "lat": "Z65613KVX",
+    "parsecs": "78365YY"
+  },
+  "hyperspaceRoute": {
+    "route": [
+      "Corellian Run",
+      "Corellian Trade Spine"
+    ]
+  },
+  "natives": "Unknown"
+},{
+  "_id": {
+    "$oid": "62583c245c116fed87469704"
+  },
+  "name": "Teth",
+  "sector": "Baxel-Wild Space",
+  "filiation": "Neutral",
+  "situation": {
+    "long": "W99868PKJ",
+    "lat": "X96541MBV",
+    "parsecs": "64998QFN"
+  },
+  "hyperspaceRoute": {
+    "route": [
+      "Myto's Arrow"
+    ]
+  },
+  "natives": "Hutt"
+},{
+  "_id": {
+    "$oid": "62583c245c116fed87469705"
+  },
+  "name": "D'Qar",
+  "sector": "Ileenium-Outer Rim Territories",
+  "filiation": "Republican",
+  "situation": {
+    "long": "S78361MNP",
+    "lat": "T48927VTY",
+    "parsecs": "26731YM"
+  },
+  "hyperspaceRoute": {
+    "route": [
+      "Corellian Run",
+      "Hydian Way"
+    ]
+  },
+  "natives": "Humans"
+},{
+  "_id": {
+    "$oid": "62583c245c116fed87469706"
+  },
+  "name": "Devaron",
+  "sector": "Duluur-Colonies",
+  "filiation": "Republican",
+  "situation": {
+    "long": "K54922LKP",
+    "lat": "J81532VBT",
+    "parsecs": "23865YY"
+  },
+  "hyperspaceRoute": {
+    "route": [
+      "Corellian Trade Spine"
+    ]
+  },
+  "natives": "Devaronian"
+},{
+  "_id": {
+    "$oid": "62583c245c116fed87469707"
+  },
+  "name": "Kessel",
+  "sector": "Kessel-Outer Rim Territories",
+  "filiation": "First Order",
+  "situation": {
+    "long": "G57142HRW",
+    "lat": "K63829GRT",
+    "parsecs": "84536ERH"
+  },
+  "hyperspaceRoute": {
+    "route": [
+      "Kessel Run"
+    ]
+  },
+  "natives": "Pyke"
+},{
+  "_id": {
+    "$oid": "62583c245c116fed87469708"
+  },
+  "name": "Shili",
+  "sector": "Shili-Expansion Region",
+  "filiation": "Republican",
+  "situation": {
+    "long": "Y37532KCV",
+    "lat": "D34712HDA",
+    "parsecs": "83420YY"
+  },
+  "hyperspaceRoute": {
+    "route": [
+      "Triellus Trade Route"
+    ]
+  },
+  "natives": "Togruta"
+},{
+  "_id": {
+    "$oid": "62583c245c116fed87469709"
+  },
+  "name": "Jelucan",
+  "sector": "Jelucan-Outer Rim Territories",
+  "filiation": "First Order",
+  "situation": {
+    "long": "H65129KFC",
+    "lat": "X83219MBV",
+    "parsecs": "68123YY"
+  },
+  "hyperspaceRoute": {
+    "route": [
+      "Hydian Way",
+      "Rimma Trade Route"
+    ]
+  },
+  "natives": "Twi'lek"
+},{
+  "_id": {
+    "$oid": "62583c245c116fed8746970a"
+  },
+  "name": "Byss",
+  "sector": "Beshqek-Deep Core",
+  "filiation": "First Order",
+  "situation": {
+    "long": "H65129KFC",
+    "lat": "X83219MBV",
+    "parsecs": "68123YY"
+  },
+  "hyperspaceRoute": {
+    "route": [
+      "Byss Run"
+    ]
+  },
+  "natives": "Humans"
+},{
+  "_id": {
+    "$oid": "62583c245c116fed8746970b"
+  },
+  "name": "Gyndine",
+  "sector": "Gyndine-Expansion Region",
+  "filiation": "Neutral",
+  "situation": {
+    "long": "X38129KFM",
+    "lat": "G88519MYR",
+    "parsecs": "85382YM"
+  },
+  "hyperspaceRoute": {
+    "route": [
+      "Nanth'ri Route"
+    ]
+  },
+  "natives": "Humans"
+},{
+  "_id": {
+    "$oid": "62583c245c116fed8746970c"
+  },
+  "name": "Rakata Prime",
+  "sector": "Rakata-Unknown Regions",
+  "filiation": "Unknown",
+  "situation": {
+    "long": "X99872MFK",
+    "lat": "G99561RTQ",
+    "parsecs": "97444YM"
+  },
+  "hyperspaceRoute": {
+    "route": [
+      "Shiritoku Way"
+    ]
+  },
+  "natives": "Rakata"
+}]

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCB_Criptografia", "PCB_Criptografia\PCB_Criptografia.csproj", "{80CA9D95-6A04-47CA-8D0B-33491AA31F60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80CA9D95-6A04-47CA-8D0B-33491AA31F60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80CA9D95-6A04-47CA-8D0B-33491AA31F60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80CA9D95-6A04-47CA-8D0B-33491AA31F60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80CA9D95-6A04-47CA-8D0B-33491AA31F60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E72ECE10-D06B-4D8F-9600-5FFF5468B395}
+	EndGlobalSection
+EndGlobal

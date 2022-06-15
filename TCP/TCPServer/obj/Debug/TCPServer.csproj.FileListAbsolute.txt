@@ -1,0 +1,13 @@
+E:\DAM\PACS\Sprint#3 TCP\TCPServer\bin\Debug\PracticaTCP.exe.config
+E:\DAM\PACS\Sprint#3 TCP\TCPServer\bin\Debug\PracticaTCP.exe
+E:\DAM\PACS\Sprint#3 TCP\TCPServer\bin\Debug\PracticaTCP.pdb
+E:\DAM\PACS\Sprint#3 TCP\TCPServer\obj\Debug\PracticaTCP.frmServer.resources
+E:\DAM\PACS\Sprint#3 TCP\TCPServer\obj\Debug\PracticaTCP.Properties.Resources.resources
+E:\DAM\PACS\Sprint#3 TCP\TCPServer\obj\Debug\TCPServer.csproj.GenerateResource.cache
+E:\DAM\PACS\Sprint#3 TCP\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+E:\DAM\PACS\Sprint#3 TCP\Compilación\TCPServer.exe.config
+E:\DAM\PACS\Sprint#3 TCP\Compilación\TCPServer.exe
+E:\DAM\PACS\Sprint#3 TCP\Compilación\TCPServer.pdb
+E:\DAM\PACS\Sprint#3 TCP\TCPServer\obj\Debug\TCPServer.exe
+E:\DAM\PACS\Sprint#3 TCP\TCPServer\obj\Debug\TCPServer.pdb
+E:\DAM\PACS\Sprint#3 TCP\TCPServer\obj\Debug\TCPServer.csproj.AssemblyReference.cache
