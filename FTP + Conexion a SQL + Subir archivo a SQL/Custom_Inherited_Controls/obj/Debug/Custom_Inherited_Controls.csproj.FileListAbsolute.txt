@@ -1,0 +1,17 @@
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\Custom_Inherited_Controls\bin\Debug\Custom_Inherited_Controls.pdb
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\Custom_Inherited_Controls\obj\Debug\Custom_Inherited_Controls.csproj.CoreCompileInputs.cache
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\Custom_Inherited_Controls\obj\Debug\Custom_Inherited_Controls.dll
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\Custom_Inherited_Controls\obj\Debug\Custom_Inherited_Controls.pdb
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\Custom_Inherited_Controls\obj\Debug\Custom_Inherited_Controls.RichPassword.resources
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\Custom_Inherited_Controls\obj\Debug\Custom_Inherited_Controls.csproj.GenerateResource.cache
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\Custom_Inherited_Controls\obj\Debug\Custom_Inherited_Controls.SWTextBox.resources
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\Custom_Inherited_Controls\bin\Debug\Custom_Inherited_Controls.pdb
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\Custom_Inherited_Controls\obj\Debug\Custom_Inherited_Controls.RichPassword.resources
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\Custom_Inherited_Controls\obj\Debug\Custom_Inherited_Controls.SWTextBox.resources
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\Custom_Inherited_Controls\obj\Debug\Custom_Inherited_Controls.csproj.GenerateResource.cache
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\Custom_Inherited_Controls\obj\Debug\Custom_Inherited_Controls.csproj.CoreCompileInputs.cache
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\Custom_Inherited_Controls\obj\Debug\Custom_Inherited_Controls.dll
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\Custom_Inherited_Controls\obj\Debug\Custom_Inherited_Controls.pdb
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\Compilacion\Custom_Inherited_Controls.dll
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\Compilacion\Custom_Inherited_Controls.pdb
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\Custom_Inherited_Controls\obj\Debug\Custom_Inherited_Controls.csproj.CopyComplete

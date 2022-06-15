@@ -1,0 +1,26 @@
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\CustomUserControls\bin\Debug\CustomUserControls.dll
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\CustomUserControls\bin\Debug\CustomUserControls.pdb
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\CustomUserControls\obj\Debug\CustomUserControls.csproj.CoreCompileInputs.cache
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\CustomUserControls\obj\Debug\CustomUserControls.dll
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\CustomUserControls\obj\Debug\CustomUserControls.pdb
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\CustomUserControls\obj\Debug\CustomUserControls.Launcher.resources
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\CustomUserControls\obj\Debug\CustomUserControls.SWCodi.resources
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\CustomUserControls\obj\Debug\CustomUserControls.csproj.GenerateResource.cache
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\CustomUserControls\bin\Debug\Custom_Inherited_Controls.dll
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\CustomUserControls\bin\Debug\Custom_Inherited_Controls.pdb
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\CustomUserControls\obj\Debug\CustomUserControls.csproj.AssemblyReference.cache
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\CustomUserControls\obj\Debug\CustomUserControls.csproj.CopyComplete
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\CustomUserControls\bin\Debug\CustomUserControls.dll
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\CustomUserControls\bin\Debug\CustomUserControls.pdb
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\CustomUserControls\bin\Debug\Custom_Inherited_Controls.dll
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\CustomUserControls\bin\Debug\Custom_Inherited_Controls.pdb
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\CustomUserControls\obj\Debug\CustomUserControls.csproj.AssemblyReference.cache
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\CustomUserControls\obj\Debug\CustomUserControls.frmLauncher.resources
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\CustomUserControls\obj\Debug\CustomUserControls.Properties.Resources.resources
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\CustomUserControls\obj\Debug\CustomUserControls.csproj.GenerateResource.cache
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\CustomUserControls\obj\Debug\CustomUserControls.csproj.CoreCompileInputs.cache
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\CustomUserControls\obj\Debug\CustomUserControls.dll
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\CustomUserControls\obj\Debug\CustomUserControls.pdb
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\Compilacion\CustomUserControls.dll
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\Compilacion\CustomUserControls.pdb
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\CustomUserControls\obj\Debug\CustomUserControls.csproj.CopyComplete

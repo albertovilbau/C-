@@ -1,0 +1,53 @@
+C:\Users\avillar\Desktop\Secure Core\Secure-Core-Space-Monkeys\SecureCodePrincipal\bin\Debug\SecureCodePrincipal.exe.config
+C:\Users\avillar\Desktop\Secure Core\Secure-Core-Space-Monkeys\SecureCodePrincipal\bin\Debug\SecureCodePrincipal.exe
+C:\Users\avillar\Desktop\Secure Core\Secure-Core-Space-Monkeys\SecureCodePrincipal\bin\Debug\SecureCodePrincipal.pdb
+C:\Users\avillar\Desktop\Secure Core\Secure-Core-Space-Monkeys\SecureCodePrincipal\obj\Debug\SecureCodePrincipal.csproj.AssemblyReference.cache
+C:\Users\avillar\Desktop\Secure Core\Secure-Core-Space-Monkeys\SecureCodePrincipal\obj\Debug\SecureCodePrincipal.fmrPrincipal.resources
+C:\Users\avillar\Desktop\Secure Core\Secure-Core-Space-Monkeys\SecureCodePrincipal\obj\Debug\SecureCodePrincipal.frmLogin.resources
+C:\Users\avillar\Desktop\Secure Core\Secure-Core-Space-Monkeys\SecureCodePrincipal\obj\Debug\SecureCodePrincipal.frmSplashScreen.resources
+C:\Users\avillar\Desktop\Secure Core\Secure-Core-Space-Monkeys\SecureCodePrincipal\obj\Debug\SecureCodePrincipal.Properties.Resources.resources
+C:\Users\avillar\Desktop\Secure Core\Secure-Core-Space-Monkeys\SecureCodePrincipal\obj\Debug\SecureCodePrincipal.csproj.GenerateResource.cache
+C:\Users\avillar\Desktop\Secure Core\Secure-Core-Space-Monkeys\SecureCodePrincipal\obj\Debug\SecureCodePrincipal.csproj.CoreCompileInputs.cache
+C:\Users\avillar\Desktop\Secure Core\Secure-Core-Space-Monkeys\SecureCodePrincipal\obj\Debug\SecureCodePrincipal.exe
+C:\Users\avillar\Desktop\Secure Core\Secure-Core-Space-Monkeys\SecureCodePrincipal\obj\Debug\SecureCodePrincipal.pdb
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\SecureCodePrincipal\bin\Debug\SecureCodePrincipal.exe.config
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\SecureCodePrincipal\bin\Debug\SecureCodePrincipal.exe
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\SecureCodePrincipal\bin\Debug\SecureCodePrincipal.pdb
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\SecureCodePrincipal\bin\Debug\Custom_Inherited_Controls.dll
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\SecureCodePrincipal\bin\Debug\Custom_Inherited_Controls.pdb
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\SecureCodePrincipal\bin\Debug\SecureCodePrincipal.exe.config
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\SecureCodePrincipal\bin\Debug\SecureCodePrincipal.exe
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\SecureCodePrincipal\bin\Debug\SecureCodePrincipal.pdb
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\SecureCodePrincipal\bin\Debug\Custom_Inherited_Controls.dll
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\SecureCodePrincipal\bin\Debug\Custom_Inherited_Controls.pdb
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\SecureCodePrincipal\obj\Debug\SecureCodePrincipal.csproj.AssemblyReference.cache
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\SecureCodePrincipal\obj\Debug\SecureCodePrincipal.fmrPrincipal.resources
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\SecureCodePrincipal\obj\Debug\SecureCodePrincipal.frmLogin.resources
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\SecureCodePrincipal\obj\Debug\SecureCodePrincipal.frmSplashScreen.resources
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\SecureCodePrincipal\obj\Debug\SecureCodePrincipal.Properties.Resources.resources
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\SecureCodePrincipal\obj\Debug\SecureCodePrincipal.csproj.GenerateResource.cache
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\SecureCodePrincipal\obj\Debug\SecureCodePrincipal.csproj.CoreCompileInputs.cache
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\SecureCodePrincipal\obj\Debug\SecureCodePrincipal.exe
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\SecureCodePrincipal\obj\Debug\SecureCodePrincipal.pdb
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\SecureCodePrincipal\bin\Debug\CustomUserControls.dll
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\SecureCodePrincipal\bin\Debug\CustomUserControls.pdb
+C:\Users\Abel\Documents\GitHub\Secure-Core-Space-Monkeys\SecureCodePrincipal\obj\Debug\SecureCodePrincipal.csproj.CopyComplete
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\SecureCodePrincipal\bin\Debug\CustomUserControls.dll
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\SecureCodePrincipal\bin\Debug\CustomUserControls.pdb
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\Compilacion\SecureCodePrincipal.exe.config
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\Compilacion\SecureCodePrincipal.exe
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\Compilacion\SecureCodePrincipal.pdb
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\SecureCodePrincipal\obj\Debug\SecureCodePrincipal.csproj.AssemblyReference.cache
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\SecureCodePrincipal\obj\Debug\SecureCodePrincipal.fmrPrincipal.resources
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\SecureCodePrincipal\obj\Debug\SecureCodePrincipal.frmLogin.resources
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\SecureCodePrincipal\obj\Debug\SecureCodePrincipal.frmSplashScreen.resources
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\SecureCodePrincipal\obj\Debug\SecureCodePrincipal.Properties.Resources.resources
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\SecureCodePrincipal\obj\Debug\SecureCodePrincipal.csproj.GenerateResource.cache
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\SecureCodePrincipal\obj\Debug\SecureCodePrincipal.csproj.CoreCompileInputs.cache
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\SecureCodePrincipal\obj\Debug\SecureCodePrincipal.exe
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\SecureCodePrincipal\obj\Debug\SecureCodePrincipal.pdb
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\SecureCodePrincipal\obj\Debug\SecureCodePrincipal.csproj.CopyComplete
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\Compilacion\SecureCodePrincipal.exe.manifest
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\Compilacion\SecureCodePrincipal.application
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\SecureCodePrincipal\obj\Debug\SecureCodePrincipal.exe.manifest
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\SecureCodePrincipal\obj\Debug\SecureCodePrincipal.application

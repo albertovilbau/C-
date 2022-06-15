@@ -1,0 +1,11 @@
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\FTP-Admin\bin\Debug\FTP-Admin.exe.config
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\FTP-Admin\bin\Debug\FTP-Admin.exe
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\FTP-Admin\bin\Debug\FTP-Admin.pdb
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\Compilacion\FTP-Admin.exe.config
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\Compilacion\FTP-Admin.exe
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\Compilacion\FTP-Admin.pdb
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\FTP-Admin\obj\Debug\FTP-Admin.csproj.CoreCompileInputs.cache
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\FTP-Admin\obj\Debug\FTP-Admin.exe
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\FTP-Admin\obj\Debug\FTP-Admin.pdb
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\FTP-Admin\obj\Debug\FTP-Admin.csproj.AssemblyReference.cache
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\FTP-Admin\obj\Debug\FTP-Admin.csproj.CopyComplete
