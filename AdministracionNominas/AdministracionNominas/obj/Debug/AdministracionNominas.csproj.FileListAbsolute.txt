@@ -1,0 +1,16 @@
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\Compilacion\AdministracionNominas.exe.config
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\Compilacion\AdministracionNominas.exe.manifest
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\Compilacion\AdministracionNominas.application
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\Compilacion\AdministracionNominas.exe
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\Compilacion\AdministracionNominas.pdb
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\AdministracionNominas\obj\Debug\AdministracionNominas.csproj.AssemblyReference.cache
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\AdministracionNominas\obj\Debug\AdministracionNominas.frmPrincipal.resources
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\AdministracionNominas\obj\Debug\AdministracionNominas.Properties.Resources.resources
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\AdministracionNominas\obj\Debug\AdministracionNominas.csproj.GenerateResource.cache
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\AdministracionNominas\obj\Debug\AdministracionNominas.csproj.CoreCompileInputs.cache
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\AdministracionNominas\obj\Debug\AdministracionNominas.exe.manifest
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\AdministracionNominas\obj\Debug\AdministracionNominas.application
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\AdministracionNominas\obj\Debug\AdministracionNominas.csproj.CopyComplete
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\AdministracionNominas\obj\Debug\AdministracionNominas.exe
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\AdministracionNominas\obj\Debug\AdministracionNominas.pdb
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\AdministracionNominas\obj\Debug\AdministracionNominas.frmLogs.resources

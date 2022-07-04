@@ -1,0 +1,7 @@
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\Compilacion\CustomUserControls.dll
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\Compilacion\CustomUserControls.pdb
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\CustomUserControls\obj\Debug\CustomUserControls.frmLauncher.resources
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\CustomUserControls\obj\Debug\CustomUserControls.csproj.GenerateResource.cache
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\CustomUserControls\obj\Debug\CustomUserControls.csproj.CoreCompileInputs.cache
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\CustomUserControls\obj\Debug\CustomUserControls.dll
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\CustomUserControls\obj\Debug\CustomUserControls.pdb

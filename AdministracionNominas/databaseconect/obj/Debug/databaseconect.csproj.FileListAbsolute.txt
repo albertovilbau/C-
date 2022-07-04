@@ -1,0 +1,11 @@
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\databaseconect\bin\Debug\databaseconect.dll
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\databaseconect\bin\Debug\databaseconect.pdb
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\databaseconect\obj\Debug\databaseconect.csproj.CoreCompileInputs.cache
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\databaseconect\obj\Debug\databaseconect.dll
+E:\DAM\Secure Core\Secure-Core-Space-Monkeys\databaseconect\obj\Debug\databaseconect.pdb
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\Compilacion\databaseconect.dll
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\Compilacion\databaseconect.pdb
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\databaseconect\obj\Debug\databaseconect.csproj.CoreCompileInputs.cache
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\databaseconect\obj\Debug\databaseconect.dll
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\databaseconect\obj\Debug\databaseconect.pdb
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\databaseconect\obj\Debug\databaseconect.csproj.AssemblyReference.cache

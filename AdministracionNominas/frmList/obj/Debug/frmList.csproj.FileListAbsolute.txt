@@ -1,0 +1,11 @@
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\Compilacion\frmList.dll.config
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\Compilacion\frmList.dll
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\Compilacion\frmList.pdb
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\frmList\obj\Debug\frmList.csproj.AssemblyReference.cache
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\frmList\obj\Debug\frmList.dbadmin.resources
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\frmList\obj\Debug\frmList.Properties.Resources.resources
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\frmList\obj\Debug\frmList.csproj.GenerateResource.cache
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\frmList\obj\Debug\frmList.csproj.CoreCompileInputs.cache
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\frmList\obj\Debug\frmList.csproj.CopyComplete
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\frmList\obj\Debug\frmList.dll
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\frmList\obj\Debug\frmList.pdb

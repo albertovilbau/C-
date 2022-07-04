@@ -1,0 +1,8 @@
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\InheritedControls\bin\Debug\InheritedControls.dll
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\InheritedControls\bin\Debug\InheritedControls.pdb
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\InheritedControls\obj\Debug\InheritedControls.DBTexBox.resources
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\InheritedControls\obj\Debug\InheritedControls.csproj.GenerateResource.cache
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\InheritedControls\obj\Debug\InheritedControls.csproj.CoreCompileInputs.cache
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\InheritedControls\obj\Debug\InheritedControls.dll
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\InheritedControls\obj\Debug\InheritedControls.pdb
+C:\Users\avillar\Desktop\Administrador de Nominas\AdministracionNominas\InheritedControls\obj\Debug\InheritedControls.csproj.AssemblyReference.cache
